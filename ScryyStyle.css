@@ -1,0 +1,24 @@
+h1 {
+ color: #FFFFFF;
+ font-size: 60px;
+}
+
+h3 {
+ color: #FFFFFF;
+}
+
+body {
+ background-color: #212121;
+}
+
+button {
+ position: absolute;
+ width: 150px;
+ height: 50px;
+ background-color: #282828;
+ color: white;
+ border: 3px solid white;
+ border-radius: 30px;
+ cursor: pointer;
+ left: 150px;
+}
