@@ -24,8 +24,13 @@ button {
 }
 
 nav {
-    background-color: #222;
+    background-color: #282828;
     padding: 10px;
+    position: absolute;
+    text-align: left;
+    border-radius: 30px;
+    left: 90px;
+    top: 20px;
 }
 
 nav a {
