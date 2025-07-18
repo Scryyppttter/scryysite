@@ -22,3 +22,18 @@ button {
  cursor: pointer;
  left: 150px;
 }
+
+nav {
+    background-color: #222;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
